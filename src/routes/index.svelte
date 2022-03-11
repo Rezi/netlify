@@ -19,7 +19,7 @@
 			</picture>
 		</div>
 
-		to your new<br />SvelteKit app Stage 2
+		to your new<br />SvelteKit app Feature 1
 	</h1>
 
 	<h2>
